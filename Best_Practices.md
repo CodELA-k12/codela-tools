@@ -1,4 +1,4 @@
-## Open Fuego Teaching Best Practices
+## CodELA Teaching Best Practices
 
 **Work with Code –** most all of the code your students will need to write has already been written. Encourage students to work with code, not write it. (Disagree? See our final entry)
 
@@ -26,7 +26,7 @@
 
 **Promote Transfer -** Offer plenty of time for students to assess what they learned and to process how they learned it. Focus on aspects of rhetoric, writing, and computational thinking.
 
-**Promote Other Kinds of Coding Experiences –** It may be unrealistic to learn more than Pitt Fuego in your classroom, but that doesn’t mean you shouldn’t encourage students to transfer their new knowledge and skills to learn more about code, even learning how to write their own.   
+**Promote Other Kinds of Coding Experiences –** It may be unrealistic to learn more than CodELA in your classroom, but that doesn’t mean you shouldn’t encourage students to transfer their new knowledge and skills to learn more about code, even learning how to write their own.   
  
 <br>
 
@@ -35,18 +35,16 @@
 
 **-Classroom/Code Icebreaker**
 
-Start your class with code. Combine the standard introduction with code, presenting who they are, where they came from, and where they want to go.  (see: Electrate Fuego or I AM; A Project in Becoming.)
+Start your class with code. Combine the standard introduction with code, presenting who they are, where they came from, and where they want to go.  (see: *VisonSite* or *I AM; A Project in Becoming*.)
 
-**-Stasis Theory Project**
-
-Students will work with code to figure out what they want to write or what they want to make by constructing a question, conjecture, definition, quality, and policy. (see: Stasis Theory Machine, Elevator Pitch Generator)
 
 **-Multimodal Communication Document**
 
-Students will use the tools in Open Fuego to make a mobile-ready multimodal communication document. (See Pitt Fuego or any of our other Presentation Methods)
+Use the template tools in CodELA to make a multimodal communication document. (See CodELA or any of our other Presentation Methods)
 
+**-Webtext Generator**
 
-
+Once your students have figured out the basics of arranging information and working with code, let them experiment with the Webtext Generator.  
 
 
 
