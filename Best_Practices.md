@@ -1,4 +1,4 @@
-## CodELA Teaching Best Practices
+## Codela Teaching Best Practices
 
 **Work with Code –** most all of the code your students will need to write has already been written. Encourage students to work with code, not write it. (Disagree? See our final entry)
 
@@ -26,7 +26,7 @@
 
 **Promote Transfer -** Offer plenty of time for students to assess what they learned and to process how they learned it. Focus on aspects of rhetoric, writing, and computational thinking.
 
-**Promote Other Kinds of Coding Experiences –** It may be unrealistic to learn more than CodELA in your classroom, but that doesn’t mean you shouldn’t encourage students to transfer their new knowledge and skills to learn more about code, even learning how to write their own.   
+**Promote Other Kinds of Coding Experiences –** It may be unrealistic to learn more than Codela in your classroom, but that doesn’t mean you shouldn’t encourage students to transfer their new knowledge and skills to learn more about code, even learning how to write their own.   
  
 <br>
 
@@ -40,7 +40,7 @@ Start your class with code. Combine the standard introduction with code, present
 
 **-Multimodal Communication Document**
 
-Use the template tools in CodELA to make a multimodal communication document. (See CodELA or any of our other Presentation Methods)
+Use the template tools in Codela to make a multimodal communication document. (See Codela or any of our other Presentation Methods)
 
 **-Webtext Generator**
 

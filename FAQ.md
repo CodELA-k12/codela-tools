@@ -1,4 +1,4 @@
-# CodELA FAQ
+# Codela FAQ
 
 **Q: How do I get started teaching students to work with code?**
 
@@ -10,11 +10,11 @@ A: The same way silly! But **YOU** should get started working with code before y
 
 **Q: Where are the directions?**
 
-A: They are embedded in the code. Teach students to use a code editor to open the index.html fime and style.css file to find the directions. 
+A: They are embedded in the code. Teach students to use a code editor to open the index.html file and style.css file to find the directions. 
 
 **Q: Can my students really figure out how to work with code?**
 
-A: If you and your students can’t figure out CodELA, then WE have a problem. Please let us know. 
+A: If you and your students can’t figure out Codela, then WE have a problem. Please let us know. 
 
 **Q: How do I assess this?**
 
@@ -22,7 +22,7 @@ A: Set expectations: demand students work with code to meet specific requirement
 
 **Q: What if a student already knows everything there is to know about .HTML and .CSS?**
 
-A:  No problem. CodELA is only a multimodal communication tool. While we can use the code to help us arrange, style, and circulate our content, we still need to invent content and connect with our audience. 
+A:  No problem. Codela is only a multimodal communication tool. While we can use the code to help us arrange, style, and circulate our content, we still need to invent content and connect with our audience. 
 
 **Q: What is computational thinking?**
 
