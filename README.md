@@ -18,5 +18,5 @@ ALL contents may be adapted for your own institution, its purposes, and students
 10. Now go share the magic...actually, it's computer science!  
 
 
-Learn more at [Codela](https://codela-k12.github.io/codela-tools/)
+Learn more at [Codela](https://codela-k12.github.io/codela-projects/)
 
